@@ -35,7 +35,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -56,19 +55,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D2Wirexia/D2Wirexia/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/D2Wirexia/D2Wirexia/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/D2Wirexia)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
 </div>
