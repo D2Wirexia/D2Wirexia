@@ -46,8 +46,6 @@
 
 ---
 
-### 🐍 Contribution snake
-
 <div align="center">
 
 <picture>
