@@ -18,38 +18,24 @@
 
 ## 🛠️ Tech Stack
 
-<!-- ╔══════════════════════ MOBILE ══════════════════════╗ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=header&text=📱%20Mobile%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
-
-<div align="center">
+<details open>
+<summary><h3>📱 Mobile Development</h3></summary>
+<br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC_Pattern-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</div>
+</details>
 
-<!-- ╔══════════════════════ WEB ══════════════════════╗ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=header&text=🌐%20Web%20Development&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
-
-<div align="center">
+<details open>
+<summary><h3>🌐 Web Development</h3></summary>
+<br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-</div>
-
-<!-- ╔══════════════════════ BACKEND ══════════════════════╗ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=header&text=⚙️%20Backend%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
+</details>
 
 <div align="center">
 
