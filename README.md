@@ -20,8 +20,9 @@
 
 <!-- ╔══════════════════════ MOBILE ══════════════════════╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=header&text=📱%20Mobile%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-</div>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=02569B&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%B1+Mobile+Development" alt="Mobile Development"/>
+
 
 <div align="center">
 
@@ -31,10 +32,15 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+
 <!-- ╔══════════════════════ WEB ══════════════════════╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=header&text=🌐%20Web%20Development&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8C%90+Web+Development" alt="Web Development"/>
+
 </div>
+
 
 <div align="center">
 
@@ -46,9 +52,17 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+
 <!-- ╔══════════════════════ BACKEND ══════════════════════╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=header&text=⚙️%20Backend%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=339933&center=true&vCenter=true&width=500&height=50&lines=%E2%9A%99%EF%B8%8F+Backend+Development" alt="Backend Development"/>
+
+</div>
+
 </div>
 
 <div align="center">
@@ -62,7 +76,11 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Databases & ORM**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1&pause=100000&color=4169E1&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%92%BE+Databases+%26+ORM" alt="Databases & ORM"/>
+
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,9 +90,13 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2"/>
+
 <!-- ╔══════════════════════ TOOLS ══════════════════════╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Tools%20and%20Design&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%A8+Tools+and+Design" alt="Tools and Design"/>
+
 </div>
 
 <div align="center">
