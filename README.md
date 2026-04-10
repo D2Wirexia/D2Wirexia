@@ -74,7 +74,7 @@
 
 <!-- ╔══════════════════════ TOOLS ══════════════════════╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=%F0%9F%A7%B0%20Tools%20%26%20Design&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=Tools%20and%20Design&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
 <div align="center">
