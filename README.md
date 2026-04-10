@@ -18,24 +18,25 @@
 
 ## 🛠️ Tech Stack
 
-<!-- 📱 MOBILE -->
-<table align="center">
-<tr><td align="center" width="1000">
+<!-- ╔══════════════════════ MOBILE ══════════════════════╗ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=header&text=📱%20Mobile%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+</div>
 
-### 📱 Mobile Development
+<div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC_Pattern-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</td></tr>
-</table>
+</div>
 
-<!-- 🌐 WEB -->
-<table align="center">
-<tr><td align="center" width="1000">
+<!-- ╔══════════════════════ WEB ══════════════════════╗ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=header&text=🌐%20Web%20Development&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=40" width="100%"/>
+</div>
 
-### 🌐 Web Development
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,31 +44,34 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-</td></tr>
-</table>
+</div>
 
-<!-- ⚙️ BACKEND -->
-<table align="center">
-<tr><td align="center" width="1000">
+<!-- ╔══════════════════════ BACKEND ══════════════════════╗ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=header&text=⚙️%20Backend%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+</div>
 
-### ⚙️ Backend Development
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Databases**
+**Databases & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-</td></tr>
-</table>
+</div>
+
 <!-- ╔══════════════════════ TOOLS ══════════════════════╗ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header&text=🧰%20Tools%20%26%20Design&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
